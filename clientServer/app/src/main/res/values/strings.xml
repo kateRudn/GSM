@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">clientServer</string>
+    <string name="open">OPEN</string>
+    <string name="send">SEND</string>
+    <string name="close">CLOSE</string>
+    <string name="connect">CONNECT</string>
+</resources>
